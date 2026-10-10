@@ -72,3 +72,9 @@
 ### PYTHON (ICONO OFICIAL DE PYTHON):
 -![imagen de icono de python)](imagenpython.png)
 - Python (icono del lenguaje Python): Es una herramienta específica de la extensión de Python que permite gestionar entornos virtuales, seleccionar intérpretes y configurar proyectos basados en Python.
+---
+### IMAGENES DEL ENTONO DE DESARROLLO (IDE) PERSONALIZADO:
+-![imagen del entorno de desarrollo personalizado 1)](personalizado1.png)
+-![imagen del entorno de desarrollo personalizado 2)](personalizado2.png)
+
+# fin de la actividad :)
